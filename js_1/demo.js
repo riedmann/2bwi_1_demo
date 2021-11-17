@@ -2,7 +2,7 @@ let config = {
     month: 0,
     startday: 4,
     months: [
-      { name: "Jan", days: 31 },
+      { name: "Jan", days: 32 },
       { name: "Feb", days: 28 },
       { name: "Mar", days: 31 },
       { name: "Apr", days: 30 },
